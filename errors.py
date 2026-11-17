@@ -1,0 +1,3 @@
+class QuoteError(Exception):
+    pass
+

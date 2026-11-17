@@ -1,0 +1,26 @@
+{
+  "client": {
+    "name": "Giulia",
+    "surname": "Bianchi",
+    "address": "Via Roma 12, Bologna (BO)",
+    "fiscal_code": "BNCGLI90C41A944X"
+  },
+  "line_items": [
+    {
+      "description": "Logo design",
+      "quantity": "10",
+      "unit_price": "-450.00"
+    },
+    {
+      "description": "Consulting hours",
+      "quantity": "6.5",
+      "unit_price": "40.00"
+    }
+  ],
+  "vat": "22.00",
+  "issue_date": "14-11-2026",
+  "currency": "EUR",
+  "convert_currency": "USD",
+  "discount_type": "percent",
+  "discount_value": "10.00"
+}
